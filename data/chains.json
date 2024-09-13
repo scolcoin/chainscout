@@ -5271,6 +5271,22 @@
       }
     ]
   },
+  "65450": {
+    "name": "SCOL",
+    "description": "Scolcoin Wei Chain",
+    "logo": "https://scolcoin.com/i/network_scol.svg",
+    "ecosystem": "Scolcoin",
+    "isTestnet": false,
+    "layer": 1,
+    "rollupType": null,
+    "website": "https://scolcoin.com/",
+    "explorers": [
+      {
+        "url": "https://explorer.scolcoin.com/",
+        "hostedBy": "self"
+      }
+    ]
+  },
   "67390": {
     "name": "Siriusnet",
     "description": "Blockchain E-sports company using 'Proof of Rank' consensus algorithm.",
